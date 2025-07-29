@@ -1,0 +1,16 @@
+1.java -it was created by james gosling
+2.in 1991
+after it was released as 1995
+when it was created it was named as oak which is a tree outside the gosling office.
+after some time it was named as java inspired by a coffee from indonesian island because oak is a trademark of other company.
+java  features are
+1.secure
+2.platform independent 
+3.write once run anywhere(wora)
+
+java is secure because it convert java source file in to java .class
+which has a bytecode and thats why human cant read it 
+
+it was a platform independent because we can run in any platform like windows,mac or any other os
+because every platform has a jvm(java vertual machine) which can run  bytecode
+
